@@ -1,0 +1,15 @@
+{
+  "name": "curso-practico-rest-api",
+  "version": "1.0.0",
+  "description": "Practica con Apis",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
